@@ -6,7 +6,7 @@ In this project, I successfully transformed an Amazon S3 bucket into a static we
 ## 🏗️ Architecture Diagram
 *(This diagram shows how the user connects to the AWS S3 bucket over the internet to request the website files).*
 
-![Architecture Diagram](Project1-Diagram.png)
+![Architecture Diagram](<Screenshot 2026-07-19 191627.png>)
 
 ## 🛠️ Technologies Used
 * **Amazon S3 (Simple Storage Service):** Used to store the website files and act as the web server.
@@ -27,4 +27,4 @@ When I first tried to apply the JSON Bucket Policy to make the website public, A
 ## 📸 Final Result
 Here is a screenshot of the live website successfully running on the AWS S3 endpoint:
 
-![Live Website](Project1-LiveWebsite.png)
+![Live Website](<Screenshot 2026-07-20 135324.png>)
